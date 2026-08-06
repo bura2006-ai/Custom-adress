@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,noip.com
   - DOMAIN-SUFFIX,resilio.com
   - DOMAIN-SUFFIX,insanelymac.com
+   -IP-CIDR,17.57.146.141
