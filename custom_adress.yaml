@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,resilio.com
   - DOMAIN-SUFFIX,insanelymac.com
   -IP-CIDR,17.57.146.141
+  - DOMAIN-SUFFIX,searchfloor.org/
